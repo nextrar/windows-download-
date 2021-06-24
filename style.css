@@ -1,0 +1,66 @@
+*{
+margin: 0;
+border: 0;
+padding: 0;
+
+}
+.box{
+
+background:url(fon.jpg);
+height: 100vh;
+background-repeat:no-repeat;
+background-position:center;
+background-size: cover;
+
+}
+.tytle {size: 10000px;
+color: #e49329;
+size: 1500px;
+
+}
+
+
+
+
+.image-center{
+    display: block;
+    margin: auto;
+}
+
+body{
+    background-color: rgb(74, 6, 138);
+    
+font-family: consolas;
+
+}
+
+
+.button{
+
+text-decoration:none;
+background: #e49329;
+font-size: 30px;
+font-family: consolas;
+padding: 1px 1px;
+color: #0060af;
+border-radius: 100px;
+border: 1px solid;
+right: 100px;
+} 
+.box{
+
+
+
+    text-align: center;
+}
+.size{
+size: 10%;
+
+
+
+
+
+}
+
+
+
